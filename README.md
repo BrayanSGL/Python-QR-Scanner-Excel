@@ -1,0 +1,1 @@
+# Python-QR-Scanner-Excel
