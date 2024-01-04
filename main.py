@@ -1,8 +1,7 @@
 import csv
 import os
 
-filename = 'C:\\Users\\bgale\\Downloads\\data.csv' # corrige
-filename
+filename = 'C:\\Users\\bgale\\Downloads\\data.csv' 
 
 if os.path.isfile(filename):
     print('El archivo ya existe, agregando datos...')
